@@ -1,6 +1,8 @@
 # Ezervar CLI - Advanced Security & Network Toolkit
 
 ![Ezervar Banner](ascii-art-text.png)
+<img width="340" height="142" alt="ascii-art-text" src="https://github.com/user-attachments/assets/7c6a7409-dabd-4301-a66a-eb890a1141d2" />
+
 
                                        
 Ezervar CLI - это мощный инструмент командной строки с хакерской эстетикой, предназначенный для сетевого анализа, безопасности, криптографии и автоматизации.
