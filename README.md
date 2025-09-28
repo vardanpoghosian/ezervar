@@ -5,8 +5,13 @@ Ezervar CLI - это мощный инструмент командной стр
 
 ## 🚀 Возможности
 
+<img width="959" height="235" alt="Снимок экрана от 2025-09-28 20-07-08" src="https://github.com/user-attachments/assets/cb272235-18ef-4a3d-9cad-6ef11fdf8113" />
 
-<img width="738" height="729" alt="Снимок экрана от 2025-09-28 20-05-29" src="https://github.com/user-attachments/assets/b631826b-f5d0-437e-8aaa-80453752e945" />
+
+<img width="959" height="629" alt="Снимок экрана от 2025-09-28 20-08-02" src="https://github.com/user-attachments/assets/26cd33ec-2752-47ac-be41-e0ebb7fab48d" />
+
+
+<img width="959" height="419" alt="Снимок экрана от 2025-09-28 20-08-29" src="https://github.com/user-attachments/assets/055f13e8-b376-4be2-9442-4e2446bcb498" />
 
 
 ### 🔒 Инструменты безопасности
